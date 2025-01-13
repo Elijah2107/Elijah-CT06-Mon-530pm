@@ -38,9 +38,9 @@
 
 
 
-# get the student's test score
-# get the student"s test score
-# get the student's test
+# get the student's test1 score
+# get the student"s test2 score
+# get the student's test3 score
 
 
 
