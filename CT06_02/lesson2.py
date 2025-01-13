@@ -49,8 +49,8 @@
 
 test1 = int(test1)
 test2 = int(test2)
-test3 = 51
-test4 = 87
+test3 = int(test3)
+test4 = int
 
 test1 = 0.25 * test1 
 test2 = 0.25 * test2
