@@ -28,5 +28,5 @@
 # look at the material of the item
 # if the item's material is plastic
 #     put into the plastic bin
-# if the item's material is plastic
-#     
+# if the item's material is paper
+#     put into
