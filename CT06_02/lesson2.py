@@ -2,7 +2,7 @@
 #    say "hey!"
 #    move 10 steps
 
-# set counter to 0
+# assign counter to 0
 # as long as the counter is equal to 50
 #      move by 10 steps
 #      turn right by 15 degrees
