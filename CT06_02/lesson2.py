@@ -17,6 +17,7 @@
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
+
 # look at the material of the item
 # if the item's material is plastic
 #     put into the plastic bin
@@ -27,6 +28,8 @@
 
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode
+
+
 
 
 
