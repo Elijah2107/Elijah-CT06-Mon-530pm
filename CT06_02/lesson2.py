@@ -30,4 +30,5 @@
 #     put into the plastic bin
 # if the item's material is paper
 #     put into the paper bin
-# if the item's material         
+# if the item's material is glass
+#          
