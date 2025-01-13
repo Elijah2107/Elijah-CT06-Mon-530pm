@@ -50,7 +50,7 @@
 test1 = int(test1)
 test2 = int(test2)
 test3 = int(test3)
-test4 = int(test)
+test4 = int(test4)
 
 test1 = 0.25 * test1 
 test2 = 0.25 * test2
