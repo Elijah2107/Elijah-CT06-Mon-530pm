@@ -17,14 +17,6 @@
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
-
-
-######## Write the pseudocode in comments for task 3 here
-# Using comments, translate the code shown on screen into pseudocode
-
-
-
-
 # look at the material of the item
 # if the item's material is plastic
 #     put into the plastic bin
@@ -32,3 +24,10 @@
 #     put into the paper bin
 # if the item's material is glass
 #     put into the glass bin         
+
+######## Write the pseudocode in comments for task 3 here
+# Using comments, translate the code shown on screen into pseudocode
+
+
+
+
