@@ -25,4 +25,5 @@
 
 
 
+#look at the material of the item
 #
