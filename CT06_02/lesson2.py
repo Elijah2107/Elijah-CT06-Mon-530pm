@@ -34,7 +34,7 @@
 # if the reply is not equal to "MINEcraft1234"
 #        say error message 
 # otherwise
-#        say 
+#        say "congratulations"
 
 
 
