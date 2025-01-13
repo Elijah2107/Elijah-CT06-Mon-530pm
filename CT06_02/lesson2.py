@@ -48,7 +48,7 @@
 
 
 test1 = int(task1)
-test2 = 80
+test2 = int(test2)
 test3 = 51
 test4 = 87
 
