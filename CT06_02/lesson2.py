@@ -18,6 +18,6 @@
 
 # ask the user what their is age
 # if the answer is less than 18
-#      say "Access denied!"
+#      say "Access Denied!"
 # else 
 #      say "Welcome!"
