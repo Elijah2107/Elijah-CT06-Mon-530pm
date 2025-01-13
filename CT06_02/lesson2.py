@@ -47,7 +47,7 @@
 # add up the 3 numbers, and print final score
 
 
-test1 = int(test1)
+test1 = intut(test1)
 test2 = int(test2)
 test3 = int(test3)
 test4 = int(test4)
