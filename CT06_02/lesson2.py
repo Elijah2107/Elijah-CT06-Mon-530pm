@@ -31,7 +31,7 @@
 
 # save the secret phase as "MiNeCrAfT1234"
 # ask the user for the secret phrase
-# if the reply is not equal to "MiNeCraft1234"
+# if the reply is not equal to "MiNeCrAfT1234"
 #        say error message 
 # otherwise
 #        say "congratulations"
