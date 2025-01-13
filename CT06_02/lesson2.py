@@ -31,8 +31,7 @@
 
 # save the secret phase as "MINECRAFT1234"
 # ask the user for the secret phrase
-# if the password is not equal to the secret phase
-         
+# if the reply is not equal
 
 
 
