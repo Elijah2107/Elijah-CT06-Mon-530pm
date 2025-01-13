@@ -48,8 +48,8 @@
 
 
 test1 = input("what is your test1 score?")
-test1 + int(test1)
-
+test1 = int(test1)
+test2 = inp
 test2 = int(test2)
 test3 = int(test3)
 test4 = int(test4)
