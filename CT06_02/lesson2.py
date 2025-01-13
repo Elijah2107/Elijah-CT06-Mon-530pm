@@ -4,7 +4,7 @@
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
-
+#
 
 ######## Write the pseudocode in comments for task 3 here
-# Using comments, translate the code shown on screen into pseudocode.
+# Using comments, translate the code shown on screen into pseudocode
