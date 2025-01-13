@@ -30,7 +30,7 @@
 # Using comments, translate the code shown on screen into pseudocode
 
 # save the secret as "laksa"
-# 
+# ask what is the password
 
 
 
