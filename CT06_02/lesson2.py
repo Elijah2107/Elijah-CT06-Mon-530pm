@@ -29,9 +29,9 @@
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode
 
-# save the secret as "MINECRAFT1234"
+# save the secret phase as "MINECRAFT1234"
 # ask what is the password
-# if the password is not equal to 
+# if the password is not equal to the secret phase
 
 
 
