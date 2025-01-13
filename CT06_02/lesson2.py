@@ -47,7 +47,7 @@
 # add up the 3 numbers, and print final score
 
 
-test1 = input("")
+test1 = input("what is your test1 score?")
 test2 = int(test2)
 test3 = int(test3)
 test4 = int(test4)
