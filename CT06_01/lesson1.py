@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello world")
 print("2025")
 print(2025)
 print("My wallet has $",100)
