@@ -44,8 +44,5 @@
 # take 20% of test1
 # take 40% of test2
 # take 40% of test3
-# add up the 3 numbers, and print final score
-
-
-
+# add up the 3 numbers, and print final scor
 
