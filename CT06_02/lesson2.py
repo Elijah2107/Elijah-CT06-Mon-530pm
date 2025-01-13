@@ -49,9 +49,9 @@
 
 test1 = 80
 test2 = 80
-test3 = 50
+test3 = 55
 test4 = 100
 test1 = 0.25 * test1 
 test2 = 0.25 * test2
-test2 = 0.25 * test2
-test2 = 0.25 * test2
+test2 = 0.25 * test3
+test2 = 0.25 * test4
