@@ -30,8 +30,9 @@
 # Using comments, translate the code shown on screen into pseudocode
 
 # save the secret phase as "MINECRAFT1234"
-# ask the user for the secret
+# ask the user for the secret phrase
 # if the password is not equal to the secret phase
+
 
 
 
