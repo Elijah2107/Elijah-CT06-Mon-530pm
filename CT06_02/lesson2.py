@@ -16,7 +16,7 @@
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode
 
-# ask the user what their age
+# ask the user what their is age
 # if the answer is less than 18
 #      say "access denied"
-# 
+# else 
