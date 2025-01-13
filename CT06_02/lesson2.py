@@ -29,7 +29,7 @@
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode
 
-# save the secret as "laksa"
+# save the secret as ""
 # ask what is the password
 
 
