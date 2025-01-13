@@ -29,7 +29,7 @@
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode
 
-# save the secret phase as "MINECRAFT1234"
+# save the secret phase as "Micraft1234"
 # ask the user for the secret phrase
 # if the reply is not equal to "MINEcraft1234"
 #        say error message 
