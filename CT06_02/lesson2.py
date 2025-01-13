@@ -2,7 +2,8 @@
 #    say "hey!"
 #    move 10 steps
 
-# set the value of  
+# set the value of counter to 0
+# re
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
