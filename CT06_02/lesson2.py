@@ -31,7 +31,7 @@
 
 # save the secret as "MINECRAFT1234"
 # ask what is the password
-# if the 
+# if the password is not equal to 
 
 
 
