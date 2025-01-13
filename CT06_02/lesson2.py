@@ -42,7 +42,7 @@
 # get the student"s test2 score
 # get the student's test3 score
 # take 20% of test1
-#
+# take 40%
 
 
 
