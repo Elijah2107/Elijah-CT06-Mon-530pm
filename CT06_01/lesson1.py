@@ -1,2 +1,2 @@
 print("Hello world")
-print("My favourite")
+print("My favourite food is ")
