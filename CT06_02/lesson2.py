@@ -20,4 +20,4 @@
 # if the answer is less than 18
 #      say "access denied"
 # else 
-#     say ""
+#      say "welcome"
