@@ -51,4 +51,4 @@ test1 = 80
 test2 = 80
 test3 = 50
 test4 = 100
-test1 = 0.25 
+test1 = 0.25 * test1
