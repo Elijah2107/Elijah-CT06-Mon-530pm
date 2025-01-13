@@ -53,3 +53,5 @@ test3 = 50
 test4 = 100
 test1 = 0.25 * test1 
 test2 = 0.25 * test2
+test2 = 0.25 * test2
+test2 = 0.25 * test2
