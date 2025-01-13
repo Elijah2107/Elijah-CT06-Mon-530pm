@@ -25,5 +25,5 @@
 
 
 
-#look at the material of the item
-#
+# look at the material of the item
+# if the item
