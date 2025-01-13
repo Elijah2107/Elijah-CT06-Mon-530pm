@@ -58,4 +58,4 @@ test2 = 0.25 * test4
 
 final = test1 + test2 + test3 + test4
 
-print("your final score")
+print("your final score is", final)
