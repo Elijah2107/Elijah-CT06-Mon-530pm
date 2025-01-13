@@ -1,6 +1,4 @@
-#say hey
-#then move ten steps
-# 
+#Repeat
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
