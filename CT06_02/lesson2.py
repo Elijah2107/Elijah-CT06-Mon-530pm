@@ -33,7 +33,8 @@
 # ask the user for the secret phrase
 # if the reply is not equal to "MINEcraft1234"
 #        say error message 
-# 
+# otherwise
+#        say 
 
 
 
