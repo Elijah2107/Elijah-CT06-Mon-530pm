@@ -47,7 +47,7 @@
 # add up the 3 numbers, and print final score
 
 
-test1 = 67
+test1 = int(task1)
 test2 = 80
 test3 = 51
 test4 = 87
