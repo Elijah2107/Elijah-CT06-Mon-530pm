@@ -47,6 +47,6 @@
 # add up the 3 numbers, and print final score
 
 
-test1 = 0
+test1 = 80
 test2 = 80
 test3 = 50
