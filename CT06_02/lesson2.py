@@ -17,4 +17,5 @@
 # Using comments, translate the code shown on screen into pseudocode
 
 # ask what is your age
-# if the answer 
+# if the answer is less than 18
+#        
