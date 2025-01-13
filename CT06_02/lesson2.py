@@ -56,4 +56,4 @@ test2 = 0.25 * test2
 test2 = 0.25 * test3
 test2 = 0.25 * test4
 
-final = test1 = test2 =
+final = test1 + test2 + test3 + test4
