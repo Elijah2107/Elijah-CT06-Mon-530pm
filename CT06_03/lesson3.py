@@ -17,4 +17,5 @@ x = 20
 print ("x")
 
 variable1 = 3 
+variable2 = 5 
 
