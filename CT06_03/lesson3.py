@@ -30,4 +30,6 @@
 #number = (50 - 10) *3
 #print(number)
 
+#task 3c
+
 
