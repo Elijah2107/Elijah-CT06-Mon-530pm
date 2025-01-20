@@ -32,4 +32,5 @@
 
 #task 3c
 
-value = 1000
+value = 100/4
+print("value")
