@@ -32,5 +32,7 @@
 
 #task 3c
 
-value = 100/4
-print("value")
+#value = 100/4
+#print("value")
+
+#task 3
