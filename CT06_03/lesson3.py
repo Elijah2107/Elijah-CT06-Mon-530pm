@@ -20,4 +20,4 @@
 #variable2 = 5 
 #print (variable1 + variable2)
 
-var
+a = 
