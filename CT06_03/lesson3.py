@@ -20,6 +20,6 @@
 #variable2 = 5 
 #print (variable1 + variable2)
 
-a = 3848936786345463
-b = 2943756548645465
+a = 5
+b = 5
 print(a + b)
