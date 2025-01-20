@@ -5,4 +5,4 @@
 # assign Charlie with score 98
 # assign Daniel with score 79
 
-# 
+# take the sum of the students, and divide by 4
