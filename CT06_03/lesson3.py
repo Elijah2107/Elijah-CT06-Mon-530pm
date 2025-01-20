@@ -27,4 +27,5 @@
 
 #task 3b
 
-number = (50 - 10) *
+number = (50 - 10) *3
+print(number)
