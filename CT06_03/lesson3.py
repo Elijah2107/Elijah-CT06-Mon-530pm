@@ -4,3 +4,5 @@
 # assign Brandon with score 58
 # assign Charlie with score 98
 # assign Daniel with score 79
+
+# print
