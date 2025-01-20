@@ -1,4 +1,4 @@
-#print("Hello from lesson 3")
+# print("Hello from lesson 3")
 
 # assign Adam with score 60
 # assign Brandon with score 58
