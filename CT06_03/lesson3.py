@@ -1,3 +1,4 @@
 #print("Hello from lesson 3")
 
-#assign 
+#assign adam with score 60
+#
