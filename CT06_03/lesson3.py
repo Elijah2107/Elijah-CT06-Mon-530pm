@@ -27,3 +27,4 @@
 
 #task 3b
 
+number = 50
