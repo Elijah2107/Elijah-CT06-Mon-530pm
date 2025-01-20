@@ -5,4 +5,4 @@
 # assign Charlie with score 98
 # assign Daniel with score 79
 
-# print out (Adam + Brandon)
+# print out (Adam + Brandon + Charlie + Daniel)
