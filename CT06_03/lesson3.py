@@ -27,4 +27,4 @@
 
 #task 3b
 
-number = 50
+number = (50 - 10) *
