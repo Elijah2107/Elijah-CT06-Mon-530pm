@@ -12,4 +12,5 @@
 #print(age)
 
 
-x 
+x = 10
+x = 
