@@ -38,3 +38,4 @@
 #task 3d
 
 integer = (3 + 4) * 5 - (10 / 2)
+print(integer)
