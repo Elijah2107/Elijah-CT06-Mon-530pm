@@ -29,6 +29,6 @@
 # task 3
 
 for count in range(100):
-    
+    print("I like cake")
 
     
