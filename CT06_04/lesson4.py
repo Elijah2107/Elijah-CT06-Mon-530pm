@@ -100,5 +100,6 @@
 #"[user_name] is [user_age] years old."
 
 user_name = "ELijah"
-user_age = ""
+user_age = "12"
+
  
