@@ -3,4 +3,5 @@
 # recap 1
 
 name = input("What is the birthday person's name? ")
-age = input("What is the age of the person that he is turning this year")
+age = input("What is the age of the person that he is turning this year? ")
+message = input("")
