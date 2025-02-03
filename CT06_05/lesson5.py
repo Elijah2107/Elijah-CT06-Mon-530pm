@@ -19,5 +19,9 @@
 #for letter in myname:
 #    print("Give me a", letter)
 #print("What do we have?")
-print(myname + " is the best!")
+#print(myname + " is the best!")
+
+# task 2
+
+
     
