@@ -102,6 +102,6 @@
 user_name = "ELijah"
 user_age = 12
 str(user_age) = 12
-print(user_name + "is")
+print(user_name + "is" + user_age)
 
  
