@@ -58,14 +58,14 @@ print("Hello from lesson 4")
 
 #task 3b
 
-number = input("Give me a number")
-number = number * 2
-number = str(number)
-print("Double your number is " + number)
+#number = input("Give me a number")
+#number = number * 2
+#number = str(number)
+#print("Double your number is " + number)
 
 #task 3c
 
-year_born = input("What year are you born in?")
+#year_born = input("What year are you born in?")
 year_born = int(year_born)
 
 
