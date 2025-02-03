@@ -2,4 +2,4 @@
 
 # recap 1
 
-name = input()
+name = input("What")
