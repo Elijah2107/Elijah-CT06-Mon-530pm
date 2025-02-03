@@ -4,4 +4,4 @@
 
 name = input("What is the birthday person's name? ")
 age = input("What is the age of the person that he is turning this year? ")
-message = input("I wish you have a good birthday! ")
+message = input(" ")
