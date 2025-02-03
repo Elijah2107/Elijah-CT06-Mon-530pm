@@ -86,8 +86,8 @@ year_born = int(year_born)
 #first and last names to them. Then print them on the same line
 #with a space between them.
 
-firstName = Elijah
-lastName = Chua
+firstName = "Elijah"
+lastName = ""
 print(firstName + lastName)
 
 #---------------------------------------------------------------
