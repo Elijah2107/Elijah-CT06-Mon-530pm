@@ -17,4 +17,4 @@
 
 myname = input("What is your name? ")
 for letter in myname:
-    print("Give me a", )
+    print("Give me a", letter)
