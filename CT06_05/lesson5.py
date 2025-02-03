@@ -29,6 +29,7 @@
 # task 3
 
 for count in range(100):
-    print("I like cake")
+    print("I like cake.")
+    print("Give me more.")
 
     
