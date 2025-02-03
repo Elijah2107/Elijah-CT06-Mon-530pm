@@ -66,7 +66,7 @@ print("Hello from lesson 4")
 #task 3c
 
 #year_born = input("What year are you born in?")
-year_born = int(year_born)
+#year_born = int(year_born)
 
 
 ## Task 4: Variable Reassignment Basics
