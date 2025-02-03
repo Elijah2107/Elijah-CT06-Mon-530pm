@@ -87,7 +87,7 @@ year_born = int(year_born)
 #with a space between them.
 
 firstName = "Elijah"
-lastName = ""
+lastName = "Chua"
 print(firstName + lastName)
 
 #---------------------------------------------------------------
