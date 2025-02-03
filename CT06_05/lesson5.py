@@ -8,5 +8,5 @@
 #print("Happy " + str(age) + "th birthday " + name + "! " + message)
 
 for count in range(1000):
-    print("I will not sling mud at my friend ever!")
+    print("I will not sling mud at my friend ever!)
 
