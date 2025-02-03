@@ -7,6 +7,6 @@
 #message = input("What is the personal message you are going to send? ")
 #print("Happy " + str(age) + "th birthday " + name + "! " + message)
 
-for count in range(1000):
-    print("I will not sling mud at my friend ever!)
+for count in range(10000):
+    print("I will not sling mud at my friend ever!")
 
