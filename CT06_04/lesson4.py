@@ -86,9 +86,9 @@
 #first and last names to them. Then print them on the same line
 #with a space between them.
 
-firstName = "Elijah"
-lastName = "Chua"
-print(firstName, lastName)
+#firstName = "Elijah"
+#lastName = "Chua"
+#print(firstName, lastName)
 
 #---------------------------------------------------------------
 
