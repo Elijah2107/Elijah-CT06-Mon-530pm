@@ -88,7 +88,7 @@ year_born = int(year_born)
 
 firstName = Elijah
 lastName = Chua
-print(firstname + lastname)
+print(firstName + lastName)
 
 #---------------------------------------------------------------
 
