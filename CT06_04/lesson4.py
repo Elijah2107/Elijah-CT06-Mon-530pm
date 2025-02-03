@@ -101,5 +101,5 @@
 
 user_name = "Elijah"
 user_age = 12
-user_age = int(user_age)
+user_age = str(user_age)
 print(user_name + " is " + user_age + " years old")
