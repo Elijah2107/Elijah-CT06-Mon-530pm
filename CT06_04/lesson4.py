@@ -88,7 +88,7 @@ print("Hello from lesson 4")
 
 firstName = "Elijah"
 lastName = "Chua"
-print(firstName + lastName)
+print(firstName +  lastName)
 
 #---------------------------------------------------------------
 
