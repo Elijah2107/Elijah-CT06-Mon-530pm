@@ -100,7 +100,7 @@
 #"[user_name] is [user_age] years old."
 
 user_name = "ELijah"
-user_age = "12"
+user_age = 12
 print(user_name + " is " + user_age + " " "years old")
 
  
