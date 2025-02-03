@@ -101,6 +101,6 @@
 
 user_name = "Elijah"
 user_age = "12"
-print(user_name + " is " + user_age + " " "years old")
+print(user_name + " is " + user_age +  "years old")
 
  
