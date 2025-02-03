@@ -18,4 +18,4 @@
 myname = input("What is your name? ")
 for letter in myname:
     print("Give me a", letter)
-    print
+    print("What do we have?" )
