@@ -99,5 +99,6 @@
 #Use type conversion and string concatenation to print out
 #"[user_name] is [user_age] years old."
 
-user_name = 
+user_name = "ELijah"
+user_age = ""
  
