@@ -23,6 +23,6 @@
 
 # task 2
 
-for count in range(100):
-    print("I like chicken rice.")
+#for count in range(100):
+#    print("I like chicken rice.")
     
