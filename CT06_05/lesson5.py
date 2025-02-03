@@ -2,4 +2,4 @@
 
 # recap 1
 
-name = input("What")
+name = input("What is the birthday person's")
