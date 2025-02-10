@@ -92,4 +92,4 @@
 
 num = 0
 for count in range(10):
-    
+    num + 
