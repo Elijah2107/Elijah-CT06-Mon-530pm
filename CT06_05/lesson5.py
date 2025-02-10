@@ -81,4 +81,5 @@
 
 #task 8
 
-start = input("What is starting number")
+start = input("What is starting number? ")
+stop = input9
