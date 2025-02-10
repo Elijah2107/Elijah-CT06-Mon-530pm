@@ -92,5 +92,5 @@
 
 num = 0
 for count in range(10):
-    num = num + 0
+    num = num + count
     print(num)
