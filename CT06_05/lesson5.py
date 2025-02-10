@@ -74,5 +74,7 @@
 #    print(count)
 
 #task 7b
-    print(count)
-print("Boo!")
+
+for count in range(10,0,-1):
+    print
+
