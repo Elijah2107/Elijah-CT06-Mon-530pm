@@ -34,7 +34,8 @@
 
 #task 4
 
-for count in range(60):
-    print(count)
+# for count in range(60):
+#     print(count)
+
 
     
