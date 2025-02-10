@@ -49,5 +49,7 @@
 
 #task 5c
 
-for count in range(18,30):
-    print(count)
+# for count in range(18,30):
+#     print(count)
+
+#task
