@@ -85,7 +85,8 @@
 # stop = input("What is the stopping number? ")
 # start = int(start)
 # stop = int(stop)
-# if 
+# if start > stop:
+
 # for count in range(start,stop,1):
 #     print(count)
 
