@@ -34,6 +34,7 @@
 
 #task 4
 
-
+for count in range(59):
+    print()
 
     
