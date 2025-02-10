@@ -83,4 +83,5 @@
 
 start = input("What is starting number? ")
 stop = input("What is the stopping number? ")
-start = i
+start = int(start)
+stop = int(start)
