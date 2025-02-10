@@ -86,4 +86,6 @@ stop = input("What is the stopping number? ")
 start = int(start)
 stop = int(start)
 if start > stop :
-    
+    x = start
+    start = stop
+    stop = x
