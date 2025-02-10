@@ -56,3 +56,8 @@
 
 #for count in range(2,26,2):
 #    print(count)
+
+#task 6b
+
+for count in range(8,104,8):
+    
