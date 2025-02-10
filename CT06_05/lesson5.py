@@ -81,9 +81,9 @@
 
 #task 8
 
-start = input("What is starting number? ")
-stop = input("What is the stopping number? ")
-start = int(start)
-stop = int(stop)
-for count in range(start,stop,1):
-    print(count)
+# start = input("What is starting number? ")
+# stop = input("What is the stopping number? ")
+# start = int(start)
+# stop = int(stop)
+# for count in range(start,stop,1):
+#     print(count)
