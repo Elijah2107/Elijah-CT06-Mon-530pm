@@ -63,3 +63,6 @@
 #    print(count)
 
 #task 6c
+
+for count in range(5,1,-1):
+    
