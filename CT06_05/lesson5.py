@@ -87,3 +87,7 @@
 # stop = int(stop)
 # for count in range(start,stop,1):
 #     print(count)
+
+#task 9 
+
+num = 0
