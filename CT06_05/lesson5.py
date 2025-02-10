@@ -90,4 +90,6 @@
 
 #task 9 
 
-4
+num = 0
+for count in range(10):
+    
