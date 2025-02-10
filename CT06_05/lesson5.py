@@ -82,4 +82,4 @@
 #task 8
 
 start = input("What is starting number? ")
-stop = input9
+stop = input("What is the stopping number? ")
