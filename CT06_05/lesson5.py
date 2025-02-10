@@ -52,4 +52,7 @@
 # for count in range(18,30):
 #     print(count)
 
-#task
+#task 6a
+
+for count in range(2,2,24)
+    
