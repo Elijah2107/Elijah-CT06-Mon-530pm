@@ -93,3 +93,4 @@
 #     stop = x
 
 #task 9 
+num = 0
