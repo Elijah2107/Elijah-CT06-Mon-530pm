@@ -43,3 +43,6 @@
 #     print(count)
 
 #task 5b
+
+for count in range(51,101):
+    print(count)
