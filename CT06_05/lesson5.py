@@ -39,5 +39,6 @@
 
 #task 5a
 
-
+for count in range(1,5):
+    print(count)
     
