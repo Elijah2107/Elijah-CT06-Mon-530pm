@@ -54,5 +54,3 @@
 
 #task 6a
 
-for count in range(2,26,2):
-    print(count)
