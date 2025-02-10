@@ -81,18 +81,6 @@
 
 #task 8
 
-# start = input("What is starting number? ")
-# stop = input("What is the stopping number? ")
-# start = int(start)
-# stop = int(stop)
-# if start > stop:
-
-# for count in range(start,stop,1):
-#     print(count)
-
-#task 9 
-
-num = 0
-for count in range(10):
-    num = num + count
-    print(num)
+start = input("What is starting number? ")
+stop = input("What is the stopping number? ")
+start = i
