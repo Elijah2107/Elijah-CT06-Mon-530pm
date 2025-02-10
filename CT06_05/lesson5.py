@@ -85,9 +85,5 @@ start = input("What is starting number? ")
 stop = input("What is the stopping number? ")
 start = int(start)
 stop = int(start)
-if start > stop :
-    x = start
-    start = stop
-    stop = x
 for count in range(start,stop,1):
     print(count)
