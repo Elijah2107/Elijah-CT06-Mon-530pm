@@ -61,3 +61,5 @@
 
 #for count in range(8,104,8):
 #    print(count)
+
+#task 6c
