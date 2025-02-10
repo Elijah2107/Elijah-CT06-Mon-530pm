@@ -59,5 +59,5 @@
 
 #task 6b
 
-for count in range(8,104,8):
-    
+#for count in range(8,104,8):
+#    print(count)
