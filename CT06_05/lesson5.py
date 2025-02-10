@@ -46,3 +46,8 @@
 
 #for count in range(51,101):
 #    print(count)
+
+#task 5c
+
+for count in range(18,30):
+    print(count)
