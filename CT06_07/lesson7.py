@@ -13,3 +13,5 @@
 # print("Average score for " + student_name + " is: " + average_score)
 
 # Task 1
+
+for count in range(1,10):
