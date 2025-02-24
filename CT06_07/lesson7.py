@@ -19,5 +19,14 @@
 
 # Task 2
 
-for count in range(2,2,22):
-    print(count)
+# for count in range(2,22,2):
+#     print(count)
+
+# Task 3
+
+# for count in range(10,0,-1):
+#     print(count)
+
+# Task 4
+
+word = input("")
