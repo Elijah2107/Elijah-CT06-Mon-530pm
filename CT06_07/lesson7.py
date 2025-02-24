@@ -14,4 +14,5 @@
 
 # Task 1
 
-for count in range(1,10):
+for count in range(1,11):
+    print(count)
