@@ -7,7 +7,7 @@ score_three = 75
 total = score_one + score_two + score_three
 
 average_score = total / 3
-average_score = str()
+average_score = str(average_score)
 student_name = "Alex"
 
 print("Average score for " + student_name + " is: " + average_score)
