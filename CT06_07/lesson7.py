@@ -20,3 +20,4 @@
 # Task 2
 
 for count in range(2,2,22):
+    print(count)
