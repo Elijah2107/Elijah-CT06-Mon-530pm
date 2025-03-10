@@ -25,3 +25,5 @@
 # Task 2b
 
 import random
+for count in range(20):
+    
