@@ -36,3 +36,5 @@
 # print(variable)
 
 # Task 3b
+
+variable = true
