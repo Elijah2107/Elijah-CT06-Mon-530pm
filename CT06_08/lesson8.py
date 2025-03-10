@@ -37,4 +37,5 @@
 
 # Task 4a
 
-var1
+import random
+var1 = random.ra
