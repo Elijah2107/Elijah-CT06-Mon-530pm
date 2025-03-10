@@ -21,3 +21,6 @@
 
 # import random
 # print(random.randint(1,6))
+
+# Task 2b
+
