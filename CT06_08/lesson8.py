@@ -24,7 +24,7 @@
 
 # Task 2b
 
-# import random
-# for count in range(20):
-#     num = random.randint(0,9999)
+import random
+for count in range(20):
+   num = random.randint(0,9999)
 #     print(num)
