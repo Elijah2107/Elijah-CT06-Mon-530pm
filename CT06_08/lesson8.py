@@ -50,5 +50,5 @@
 
 import random
 num = random.randint(1,50)
-start = input("WHat is start? ")
-end 
+start = input("What is start? ")
+end = input()
