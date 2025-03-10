@@ -25,4 +25,3 @@
 # Task 2b
 
 import random
-num1 = random.randint()
