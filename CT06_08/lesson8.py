@@ -11,4 +11,5 @@
 
 import time
 for count in range(10,0):
-    print
+    print(count)
+    time.sleep(1)
