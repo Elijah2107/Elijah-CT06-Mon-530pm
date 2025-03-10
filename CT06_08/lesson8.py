@@ -7,9 +7,10 @@
 
 # print("the final result is " + str(product))
 
-# Task 1a
+# Task 1
 
 import time
+start = 
 for count in range(10,0,-1):
     print(count)
     time.sleep(1)
