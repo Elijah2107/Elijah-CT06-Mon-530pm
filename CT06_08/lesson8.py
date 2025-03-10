@@ -9,3 +9,6 @@
 
 # Task 1a
 
+import time
+for count in range(10,0):
+    print
