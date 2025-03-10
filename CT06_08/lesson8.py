@@ -8,3 +8,5 @@
 # print("the final result is " + str(product))
 
 # Task 1
+
+import time
