@@ -10,8 +10,8 @@
 # Task 1
 
 import time
-start = int(input("WHat is starting number? "))
-stop = int(input())
+start = int(input("What is starting number? "))
+stop = int(input("WHat is "))
 for count in range(10,0,-1):
     print(count)
     time.sleep(1)
