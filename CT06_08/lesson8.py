@@ -12,7 +12,7 @@
 import time
 start = int(input("What is starting number? "))
 stop = int(input("What is ending number? "))
-step = int(input("What is the step number? "))
+step = int(input("What is the decrement? "))
 for count in range(start,stop,step):
     print(count)
     time.sleep(1)
