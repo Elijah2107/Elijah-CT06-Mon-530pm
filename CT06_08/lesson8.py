@@ -35,7 +35,4 @@
 # variable = True
 # print(variable)
 
-# Task 3b
-
-var1 = True
-var2 = True
+# Task 4
