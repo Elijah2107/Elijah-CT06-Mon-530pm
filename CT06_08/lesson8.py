@@ -19,5 +19,5 @@
 
 # Task 2a
 
-import random
-print(random.randint(1,6))
+# import random
+# print(random.randint(1,6))
