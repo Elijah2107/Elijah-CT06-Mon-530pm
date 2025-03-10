@@ -39,4 +39,4 @@
 
 import random
 var1 = str(random.randint(1,50))
-var2 = random.randint(1,50)
+var2 = str(random.randint(1,50))
