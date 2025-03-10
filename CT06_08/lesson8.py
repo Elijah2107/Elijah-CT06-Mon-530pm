@@ -32,5 +32,7 @@
 
 # Task 3a
 
-variable = True
-print(variable)
+# variable = True
+# print(variable)
+
+# Task 3b
