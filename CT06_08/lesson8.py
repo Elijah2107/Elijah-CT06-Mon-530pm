@@ -38,6 +38,6 @@
 # Task 4a
 
 import random
-var1 = random.randint(1,50)
-var2 = random.randint(1,50)
-question = "what is" + str(num)
+num1 = random.randint(1,50)
+num2 = random.randint(1,50)
+question = "what is" + str(v)
