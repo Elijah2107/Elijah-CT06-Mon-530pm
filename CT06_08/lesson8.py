@@ -10,6 +10,6 @@
 # Task 1a
 
 import time
-for count in range(10,0):
+for count in range(10,0,-1):
     print(count)
     time.sleep(1)
