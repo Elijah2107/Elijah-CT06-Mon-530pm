@@ -27,3 +27,4 @@
 import random
 for count in range(20):
     num = int(input("Give me number! "))
+    print()
