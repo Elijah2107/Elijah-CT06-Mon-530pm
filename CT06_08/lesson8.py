@@ -48,4 +48,4 @@
 
 # Task 4b
 
-num = random.randint()
+num = random.randint(1,50)
