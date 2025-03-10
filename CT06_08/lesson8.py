@@ -37,4 +37,4 @@
 
 # Task 3b
 
-type(variable = True)
+var1
