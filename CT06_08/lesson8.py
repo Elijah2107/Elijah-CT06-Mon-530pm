@@ -33,3 +33,4 @@
 # Task 3a
 
 variable = True
+print(variable)
