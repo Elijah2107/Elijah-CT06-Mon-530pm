@@ -20,3 +20,4 @@
 # Task 2a
 
 import random
+print(random)
