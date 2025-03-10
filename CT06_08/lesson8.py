@@ -11,8 +11,8 @@
 
 import time
 start = int(input("What is starting number? "))
-stop = int(input("WHat is ending number? "))
-step = int(input("What is the increment? "))
+stop = int(input("What is ending number? "))
+step = int(input("What is the step? "))
 for count in range(10,0,-1):
     print(count)
     time.sleep(1)
