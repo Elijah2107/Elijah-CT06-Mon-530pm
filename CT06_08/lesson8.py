@@ -10,7 +10,7 @@
 # Task 1
 
 import time
-start = 
+start = input()
 for count in range(10,0,-1):
     print(count)
     time.sleep(1)
