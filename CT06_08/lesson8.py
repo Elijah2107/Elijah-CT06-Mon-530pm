@@ -47,5 +47,5 @@
 # print(reply == hidden)
 
 # Task 4b
-
+import random
 num = random.randint(1,50)
