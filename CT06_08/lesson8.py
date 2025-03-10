@@ -9,5 +9,4 @@
 
 # Task 1
 
-import time
 time.sleep()
