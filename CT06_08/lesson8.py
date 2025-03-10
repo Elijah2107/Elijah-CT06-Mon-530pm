@@ -32,3 +32,4 @@
 
 # Task 3a
 
+variable = True
