@@ -50,4 +50,4 @@
 
 import random
 num = random.randint(1,50)
-start
+start = input()
