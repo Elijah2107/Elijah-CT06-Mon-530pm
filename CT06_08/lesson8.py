@@ -26,5 +26,5 @@
 
 import random
 for count in range(20):
-    num = random.randint(0,1984273244343278413846324638746372467382463246364326432)
+    num = random.randint(0,9999)
     print(num)
