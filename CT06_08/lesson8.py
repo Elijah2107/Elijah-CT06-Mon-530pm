@@ -39,3 +39,4 @@
 
 import random
 var1 = random.randint(1,50)
+var
