@@ -38,4 +38,4 @@
 # Task 4a
 
 import random
-var1 = random.ra
+var1 = random.randint()
