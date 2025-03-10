@@ -14,4 +14,3 @@
 #     print(count)
 #     time.sleep(1)
 
-# Task 1b
