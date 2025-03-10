@@ -15,5 +15,5 @@ stop = int(input("What is ending number? "))
 step = int(input("What is the decrement? "))
 for count in range(start,stop,step):
     print(count)
-    time.sleep(1)
+    time.sleep(0.5)
 
