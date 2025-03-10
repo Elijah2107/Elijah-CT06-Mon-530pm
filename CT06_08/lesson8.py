@@ -37,4 +37,4 @@
 
 # Task 3b
 
-variable = bool("True")
+variable = True
