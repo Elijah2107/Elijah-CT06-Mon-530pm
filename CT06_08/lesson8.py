@@ -48,7 +48,12 @@
 
 # Task 4b
 
-import random
-num = random.randint(1,50)
-start = input("What is start? ")
-end = input("What is end? ")
+# import random
+# num = random.randint(1,50)
+# start = input("What is start? ")
+# end = input("What is end? ")
+# if num => start():
+#     print(True)
+# else: 
+#     print(False)
+
