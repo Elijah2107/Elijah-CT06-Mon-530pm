@@ -13,3 +13,5 @@
 # for count in range(10,0,-1):
 #     print(count)
 #     time.sleep(1)
+
+# Task 1b
