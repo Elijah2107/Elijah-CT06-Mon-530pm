@@ -40,4 +40,4 @@
 import random
 var1 = random.randint(1,50)
 var2 = random.randint(1,50)
-question = "what is"
+question = "what is" + str(num)
