@@ -11,6 +11,7 @@
 
 import time
 start = int(input("WHat is starting number? "))
+stop = int(input())
 for count in range(10,0,-1):
     print(count)
     time.sleep(1)
