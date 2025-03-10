@@ -44,4 +44,4 @@ question = "what is" + str(num1) + " + " + str(num2) + "?"
 reply = input(question)
 reply = int(reply)
 hidden = num1 + num2
-print
+print(reply == hidden)
