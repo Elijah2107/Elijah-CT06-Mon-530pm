@@ -24,3 +24,5 @@
 
 # Task 2b
 
+import random
+num1
