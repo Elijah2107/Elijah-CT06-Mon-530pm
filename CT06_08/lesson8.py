@@ -37,4 +37,5 @@
 
 # Task 3b
 
-var1
+var1 = True
+var2 = True
