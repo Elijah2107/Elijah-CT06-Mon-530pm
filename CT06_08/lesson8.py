@@ -67,6 +67,6 @@
 # Task 7
 
 num = int(input("Give me a number "))
-print 
+print(num % 2 == 0)
 
     
