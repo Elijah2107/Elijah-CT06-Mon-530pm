@@ -72,5 +72,5 @@ for count in range(questions):
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
     answer = input(num1 + " x " + num2)
-    print()
+    print(answer == num1)
     
