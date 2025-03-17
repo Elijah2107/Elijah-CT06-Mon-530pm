@@ -64,4 +64,5 @@ guess = int(input("Give me a number between 1 to 105 "))
 num1 = random.randint(1,10)
 if guess == num1:
     print ("True")
-    
+else:
+    print 
