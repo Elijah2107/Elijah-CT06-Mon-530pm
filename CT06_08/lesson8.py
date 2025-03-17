@@ -67,6 +67,6 @@
 # Task 7
 
 num = input("Give me a number ")
-
+num = num 
 
     
