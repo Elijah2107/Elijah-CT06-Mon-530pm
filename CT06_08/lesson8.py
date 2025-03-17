@@ -67,10 +67,6 @@
 # Task 7
 
 num = int(input("Give me a number "))
-remainder = num % 2
-if remainder == 0:
-    print("True")
-else:
-    print("False")
+print 
 
     
