@@ -66,5 +66,5 @@
 
 # Task 7
 
-
+num = in
     
