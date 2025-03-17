@@ -60,3 +60,4 @@
 # Task 5
 
 import random
+guess = input("")
