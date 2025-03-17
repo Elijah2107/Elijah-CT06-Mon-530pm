@@ -66,11 +66,5 @@
 
 # Task 6
 
-import random
-questions = int(input("How many questions? "))
-for count in range(questions):
-    num1 = random.randint(1,10)
-    num2 = random.randint(1,10)
-    answer = input(str(num1) + " x " + str(num2) + " ")
-    print(answer == (num1 * num2))
+i/
     
