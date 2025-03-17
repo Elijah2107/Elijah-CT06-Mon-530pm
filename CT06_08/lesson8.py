@@ -68,6 +68,6 @@
 
 import random
 questions = int(("How many questions? "))
-
-num1 = random.randint(1,10)
-num2 = random.randint(1,10)
+for count in range():
+    num1 = random.randint(1,10)
+    num2 = random.randint(1,10)
