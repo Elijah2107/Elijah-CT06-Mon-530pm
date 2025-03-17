@@ -1,4 +1,4 @@
 # Task 2
 
 import random
-randnum = random.randint
+randnum = random.randint(1,10)
