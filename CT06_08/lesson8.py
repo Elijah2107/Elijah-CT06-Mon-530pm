@@ -67,3 +67,4 @@
 # Task 6
 
 import random
+questions = ("How many questions? ")
