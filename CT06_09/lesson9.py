@@ -2,7 +2,7 @@
 
 days = 26
 if days > 25:
-    
+    print()
 
 # Task 3b
 
