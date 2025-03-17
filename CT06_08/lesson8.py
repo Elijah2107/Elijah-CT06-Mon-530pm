@@ -65,3 +65,5 @@
 # print(guess == num1)
 
 # Task 6
+
+import random
