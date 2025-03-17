@@ -67,7 +67,8 @@
 # Task 7
 
 num = input("Give me a number ")
-num = num % 2
-
+remainder = num % 2
+if remainder == 0:
+    print("True")
 
     
