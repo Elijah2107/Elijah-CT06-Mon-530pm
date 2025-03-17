@@ -65,4 +65,4 @@ num1 = random.randint(1,10)
 if guess == num1:
     print ("True")
 else:
-    print 
+    print ("")
