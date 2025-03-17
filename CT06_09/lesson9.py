@@ -4,3 +4,6 @@
 # randnum = random.randint(1,10)
 # guess = int(input("Give me a number between 1 to 10 "))
 # print(randnum == guess)
+
+# Task 3b
+
