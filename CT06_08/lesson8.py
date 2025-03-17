@@ -68,4 +68,4 @@
 
 import random
 questions = int(("How many questions? "))
-num1 = 
+num1 = random.randint(1,10)
