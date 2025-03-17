@@ -60,5 +60,5 @@
 # Task 5
 
 import random
-guess = input("Give me a number between 1 to 10. ")
+guess = int(input("Give me a number between 1 to 10. "))
 num1 = random.randint(1,10)
