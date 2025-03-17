@@ -70,5 +70,7 @@ num = input("Give me a number ")
 remainder = num % 2
 if remainder == 0:
     print("True")
+else:
+    print("False")
 
     
