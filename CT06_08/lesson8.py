@@ -71,6 +71,7 @@ questions = int(("How many questions? "))
 for count in range(questions):
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
+    question
     answer = input(num1 + " x " + num2)
     print(answer == num1 * num2)
     
