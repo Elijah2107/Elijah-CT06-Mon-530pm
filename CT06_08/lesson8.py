@@ -60,4 +60,4 @@
 # Task 5
 
 import random
-guess = input("")
+guess = input("Give me a number between 1 to 10? ")
