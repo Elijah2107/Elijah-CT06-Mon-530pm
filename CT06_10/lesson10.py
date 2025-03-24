@@ -28,3 +28,4 @@
 # Task 4
 
 num = int(input("Give me a number "))
+remainder = num 
