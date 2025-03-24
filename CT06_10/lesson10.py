@@ -39,3 +39,6 @@
 age = input("What is your age? ")
 if age < 13:
     print("Child")
+else:
+    if age > 13 and age < 19:
+        print
