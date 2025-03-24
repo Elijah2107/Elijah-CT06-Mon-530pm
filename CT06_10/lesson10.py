@@ -21,4 +21,5 @@
 password = "minecraft"
 answer = input("What's the password? ")
 if answer == password:
-    print("Login Successful!")
+    print("Login Successful")
+else
