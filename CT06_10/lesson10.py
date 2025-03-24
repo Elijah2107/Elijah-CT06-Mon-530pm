@@ -36,7 +36,7 @@
 
 # Task 5
 
-age = input("What is your age? ")
+age = int(input("What is your age? "))
 if age < 13:
     print("Child")
 else:
