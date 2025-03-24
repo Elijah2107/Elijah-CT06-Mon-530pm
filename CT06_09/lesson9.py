@@ -4,7 +4,7 @@ days = 26
 if days > 25:
     print("Remember to return your book! ")
 
-# Task 3b
+# Task 3
 
 # import random
 # randnum = random.randint(1,10)
