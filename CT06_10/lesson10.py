@@ -31,4 +31,5 @@ num = int(input("Give me a number "))
 remainder = num % 2
 if remainder == 0:
     print("The number is even")
-else
+else:
+    print("The number is odd")
