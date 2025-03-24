@@ -36,3 +36,4 @@
 
 # Task 5
 
+age = input("W")
