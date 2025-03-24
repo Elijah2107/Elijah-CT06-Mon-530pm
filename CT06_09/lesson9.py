@@ -13,9 +13,8 @@
 
 # Task 4
 
-# apple = 1
 # num_of_apples = int(input("How many apples do you want? "))
-# cost_apple = num_of_apples * apple
+# cost_apple = num_of_apples * 1
 # if num_of_apples > 5:
 #     cost_apple = cost_apple * 0.9
 # print(cost_apple)
