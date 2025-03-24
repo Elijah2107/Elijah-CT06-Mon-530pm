@@ -36,11 +36,13 @@
 
 # Task 5
 
-age = int(input("What is your age? "))
-if age < 13:
-    print("Child")
-else:
-    if age > 13 and age < 19:
-        print("Teen")
-    else:
-        print("Adult")
+# age = int(input("What is your age? "))
+# if age < 13:
+#     print("Child")
+# else:
+#     if age > 13 and age < 19:
+#         print("Teen")
+#     else:
+#         print("Adult")
+
+# Task 6
