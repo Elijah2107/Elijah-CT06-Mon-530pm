@@ -14,7 +14,8 @@
 # Task 4
 
 apple = 1
-num_of_apples = int(input())
+num_of_apples = int(input("How many apples do you want? "))
+
 
 # Task 5
 
