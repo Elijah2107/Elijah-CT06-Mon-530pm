@@ -23,4 +23,4 @@ answer = input("What's the password? ")
 if answer == password:
     print("Login Successful")
 else:
-    print("Password")
+    print("Password Incorrect")
