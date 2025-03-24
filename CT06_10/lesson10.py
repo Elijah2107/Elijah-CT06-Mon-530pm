@@ -19,3 +19,4 @@
 # Task 3
 
 password = "minecraft"
+answer = input
