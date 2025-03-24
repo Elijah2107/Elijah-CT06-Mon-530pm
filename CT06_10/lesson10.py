@@ -26,3 +26,5 @@
 #     print("Password Incorrect")
 
 # Task 4
+
+num = int
