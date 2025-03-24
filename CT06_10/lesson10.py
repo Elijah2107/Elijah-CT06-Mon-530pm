@@ -9,4 +9,4 @@
 # Task 2
 
 import random
-num = random.ran
+num = random.randint(1,10)
