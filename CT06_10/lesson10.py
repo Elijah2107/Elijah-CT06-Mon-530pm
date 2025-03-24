@@ -1,3 +1,3 @@
 # Task 1
 
-num = 
+num = int(input("Give me a number"))
