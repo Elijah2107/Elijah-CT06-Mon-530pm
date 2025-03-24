@@ -14,4 +14,4 @@ guess = int(input("Give me a number between 1 to 10. "))
 if guess == num:
     print("Congratulations!! You did it!")
 else:
-    print("")
+    print("Oops, ")
