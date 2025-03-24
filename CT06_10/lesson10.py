@@ -2,4 +2,4 @@
 
 num = int(input("Give me a number "))
 if num <= 0:
-    print((str(num) + " " ))
+    print((str(num) + " " + "is postive." ))
