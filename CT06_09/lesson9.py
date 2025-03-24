@@ -23,5 +23,6 @@ if num_of_apples > 5:
     cost_apple = cost_apple * 0.9
 if num_of_oranges > 5:
     cost_orange = cost_orange * 0.9
-total = cost_apple
+total = cost_apple + cost_orange
+print("")
 
