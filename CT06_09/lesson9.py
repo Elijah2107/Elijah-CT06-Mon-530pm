@@ -13,5 +13,5 @@
 
 # Task 5
 
-apple = 60
-orange
+apple = 0.6
+orange = 0.9
