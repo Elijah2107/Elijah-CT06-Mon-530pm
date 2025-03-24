@@ -41,4 +41,4 @@ for count in range(1,8):
     if temperature > 30:
         positive_days = positive_days + 1
 
-    
+
