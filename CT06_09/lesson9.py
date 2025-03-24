@@ -15,4 +15,4 @@
 
 apple = 0.6
 orange = 0.9
-num_of_orange = input()
+num_of_orange = input("How many apples do you want? ")
