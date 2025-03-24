@@ -35,5 +35,5 @@
 # Task 7
 
 positive_days = 0
-for count in range(7):
+for count in range(1,8):
     print(count)
