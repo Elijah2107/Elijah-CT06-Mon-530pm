@@ -42,3 +42,4 @@ for count in range(1,8):
         positive_days = positive_days + 1
 
 
+print
