@@ -28,4 +28,6 @@
 # Task 4
 
 num = int(input("Give me a number "))
-remainder = num 
+remainder = num % 2
+if remainder == 0:
+    print()
