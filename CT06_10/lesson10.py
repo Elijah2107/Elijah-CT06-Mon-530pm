@@ -10,4 +10,4 @@
 
 import random
 num = random.randint(1,10)
-guess = int(input(""))
+guess = int(input("Give me a number "))
