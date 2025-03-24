@@ -26,7 +26,7 @@
 # orange = 0.9
 # num_of_apples = int(input("How many apples do you want? "))
 # num_of_oranges = int(input("How many oranges do you want? "))
-# cost_apple = num_of_apples * apple
+# cost_apple = num_of_apples * 0.6
 # cost_orange = num_of_oranges * orange
 # if num_of_apples > 5:
 #     cost_apple = cost_apple * 0.9
