@@ -32,4 +32,5 @@
 # total = cost_apple + cost_orange
 # print(total)
 
-# Task 6
+# Task 7
+
