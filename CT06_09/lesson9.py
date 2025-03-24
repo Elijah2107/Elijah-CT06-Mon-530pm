@@ -18,4 +18,4 @@ orange = 0.9
 num_of_apples = input("How many apples do you want? ")
 num_of_oranges = input("How many oranges do you want? ")
 cost_apple = num_of_apples * 0.6
-cost_
+cost_orange = num_of_oranges * 0.9
