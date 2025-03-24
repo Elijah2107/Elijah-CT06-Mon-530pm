@@ -27,4 +27,4 @@
 
 # Task 4
 
-num = int
+num = int(input("Give me a number "))
