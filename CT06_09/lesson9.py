@@ -34,4 +34,6 @@
 
 # Task 7
 
-post
+positive_days = 0
+for count in range(7):
+    print(count)
