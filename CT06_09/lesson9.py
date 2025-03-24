@@ -13,6 +13,9 @@
 
 # Task 4
 
+apple = 1
+num
+
 # Task 5
 
 # apple = 0.6
