@@ -18,9 +18,11 @@
 
 # Task 3
 
-password = "minecraft"
-answer = input("What's the password? ")
-if answer == password:
-    print("Login Successful")
-else:
-    print("Password Incorrect")
+# password = "minecraft"
+# answer = input("What's the password? ")
+# if answer == password:
+#     print("Login Successful")
+# else:
+#     print("Password Incorrect")
+
+# Task 4
