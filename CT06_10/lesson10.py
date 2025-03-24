@@ -19,4 +19,6 @@
 # Task 3
 
 password = "minecraft"
-answer = input
+answer = input("What's the password? ")
+if answer == password:
+    print("Login su")
