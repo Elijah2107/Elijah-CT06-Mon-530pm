@@ -37,4 +37,4 @@
 positive_days = 0
 for count in range(1,8):
     print(count)
-    temperature = input("What is the temperature")
+    temperature = int(input("What is the temperature? "))
