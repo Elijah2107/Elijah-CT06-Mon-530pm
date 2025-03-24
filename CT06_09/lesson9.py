@@ -15,7 +15,7 @@
 
 apple = 1
 num_of_apples = int(input("How many apples do you want? "))
-
+cost_apple = apple * nu
 
 # Task 5
 
