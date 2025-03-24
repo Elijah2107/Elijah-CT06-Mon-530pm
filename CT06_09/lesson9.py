@@ -13,3 +13,5 @@
 
 # Task 5
 
+apple = 60
+orange
