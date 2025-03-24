@@ -7,3 +7,6 @@
 #     print((str(num) + " " + "is negative."))
 
 # Task 2
+
+import random
+num = random.ran
