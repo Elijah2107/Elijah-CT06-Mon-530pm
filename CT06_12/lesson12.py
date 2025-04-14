@@ -7,4 +7,5 @@ for letter in word:
     print(letter)
     if letter == "o":
         contains_o = True
-elif:
+    elif letter == "e":
+        
