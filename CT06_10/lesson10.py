@@ -39,10 +39,32 @@
 # age = int(input("What is your age? "))
 # if age < 13:
 #     print("Child")
-# else:
-#     if age > 13 and age < 19:
-#         print("Teen")
-#     else:
-#         print("Adult")
+
 
 # Task 6
+
+# Task 9
+
+# score = int(input("What is the score? "))
+# if score >= 90:
+#     print("You got an A. Well done!")
+# elif score >= 80 and score < 90:
+#     print("You got a B. Great job!")
+# elif score >= 70 and score < 80:
+#     print("You got a C. Good! ")
+# elif score >= 60 and score < 70:
+#     print("You got a D. Not bad.")
+# elif score >= 50 and score < 60:
+#     print("You got a E. Pay attention to class!")
+# else:
+#     print("You got a F. You failed! LOL!")
+
+# Task 10
+
+age = int(input("What is your age? "))
+if age < 0:
+    print("Age cannot be negative")
+elif age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible to vote")
