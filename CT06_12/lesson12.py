@@ -19,6 +19,6 @@
 # Task 1
 
 visitors = 4
-while visitors < 25:
+while visitors < 30:
     visitors = visitors + 1
     print(visitors)
