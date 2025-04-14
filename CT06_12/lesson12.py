@@ -10,4 +10,3 @@ for letter in word:
     elif letter == "e":
         contains_e = True
 
-        
