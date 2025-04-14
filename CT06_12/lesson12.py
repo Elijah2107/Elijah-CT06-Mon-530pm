@@ -20,4 +20,4 @@
 
 visitors = 0
 while visitors < 50:
-    visti
+    visitors = visitors 
