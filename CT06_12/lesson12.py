@@ -11,5 +11,6 @@ for letter in word:
         contains_e = True
 
 
-if not (contains_e or contains_o)
+if not (contains_e or contains_o):
+    print("Invalid Word")
 
