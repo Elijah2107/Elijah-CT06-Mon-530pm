@@ -1,2 +1,3 @@
 # Recap
 
+word = input("")
