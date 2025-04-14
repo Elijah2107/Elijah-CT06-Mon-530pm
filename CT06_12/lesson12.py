@@ -13,4 +13,5 @@ for letter in word:
 
 if not (contains_e or contains_o):
     print("Invalid Word")
-
+else:
+    print
