@@ -5,4 +5,6 @@ for letter in word:
     print(letter)
 
 if (letter in word == 5) and (letter in word == "e" and "o"):
-    print("Valid ")
+    print("Valid Word")
+else:
+    print("Invalid Word")
