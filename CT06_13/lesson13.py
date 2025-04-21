@@ -19,3 +19,4 @@ while not answer == exit:
         print(balance)
 
 
+print("Thank you for visiting our bank! ")
