@@ -8,3 +8,5 @@ while not answer == exit:
         withdrawal = input("How much money would you like to withdraw? ")
         if balance < withdrawal:
             print("Cannot withdraw!")
+        else:
+            print(balance - withdrawal)
