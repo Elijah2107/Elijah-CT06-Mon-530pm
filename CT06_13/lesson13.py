@@ -6,4 +6,5 @@ answer = input("Choose the one of the following, withdraw, deposit, check balanc
 while not answer == exit:
     if answer == "withdraw":
         withdrawal = input("How much money would you like to withdraw? ")
-        
+        if balance < withdrawal:
+            print("Cannot withdraw!")
