@@ -17,3 +17,5 @@ while not answer == exit:
     
     if answer == "check balance":
         print(balance)
+
+    
