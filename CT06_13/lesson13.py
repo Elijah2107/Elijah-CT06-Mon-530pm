@@ -10,3 +10,6 @@ while not answer == exit:
             print("Cannot withdraw!")
         else:
             print(balance - withdrawal)
+    
+    if answer == "deposit":
+        deposit = 
