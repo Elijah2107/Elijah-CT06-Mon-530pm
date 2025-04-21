@@ -67,5 +67,5 @@ import random
 num = 0
 num = random.randint(1,100000)
 while num != 4:
-    num = random.randint(1,1000000000)
+    num = random.randint(1,100000)
     print(num)
