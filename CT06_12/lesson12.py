@@ -18,7 +18,11 @@
 
 # Task 1
 
-visitors = 0
-while visitors < 30:
-    visitors = visitors + 1
-    print(visitors)
+# visitors = 0
+# while visitors < 30:
+#     visitors = visitors + 1
+#     print(visitors)
+
+# Task 3
+
+order = ""
