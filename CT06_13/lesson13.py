@@ -12,4 +12,5 @@ while not answer == exit:
             print(balance - withdrawal)
     
     if answer == "deposit":
-        deposit = 
+        deposit = input("How much would you like to deposit? ")
+        
