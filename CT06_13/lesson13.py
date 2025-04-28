@@ -1,4 +1,4 @@
 # Task 1
 
-groceries = ["Apple", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Honey"]
+groceries = ["Apple", "Bread", "Carrots", "Dates", "Eggs", "Flour", "Grapes", "Herbs"]
 print(groceries)
