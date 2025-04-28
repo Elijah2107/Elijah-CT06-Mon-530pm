@@ -16,6 +16,7 @@ while not answer == exit:
         deposit = int(input("How much would you like to deposit? "))
         print(balance + deposit)
         break
+        
     
     if answer == "check balance":
         print(balance)
