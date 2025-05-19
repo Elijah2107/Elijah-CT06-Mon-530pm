@@ -11,4 +11,4 @@
 
 import turtle
 turtle.write("MINECRAFT")
-wind.mainloop()
+window.mainloop()
