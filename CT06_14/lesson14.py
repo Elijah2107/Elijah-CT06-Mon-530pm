@@ -12,5 +12,6 @@
 import turtle
 window = turtle.Screen()
 window.setup(width = 600, height = 400)
+turtle.pendown()
 turtle.write("MINECRAFT")
 window.mainloop()
