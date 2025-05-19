@@ -1,4 +1,4 @@
 # Task 1
 
 import turtle 
-turtle.screen(600 )
+turtle.screen(600 * 400)
