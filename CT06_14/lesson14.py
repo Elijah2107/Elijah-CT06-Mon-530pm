@@ -11,3 +11,4 @@
 
 import turtle
 turtle.write("MINECRAFT")
+window
