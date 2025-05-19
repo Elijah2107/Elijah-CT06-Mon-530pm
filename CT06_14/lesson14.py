@@ -10,4 +10,4 @@
 # Task 2
 
 import turtle
-tut
+turtle.write("MINECRAFT")
