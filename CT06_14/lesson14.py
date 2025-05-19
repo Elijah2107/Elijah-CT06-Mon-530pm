@@ -1,4 +1,4 @@
 # Task 1
 
 import turtle 
-turtle.Screen(Width = 600, height = 400)
+turtle.Screen(width=600, height=400)
