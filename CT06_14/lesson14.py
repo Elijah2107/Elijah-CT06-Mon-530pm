@@ -10,5 +10,6 @@
 # Task 2
 
 import turtle
+window = turtle.Screen()
 turtle.write("MINECRAFT")
 window.mainloop()
